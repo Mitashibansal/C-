@@ -1,2 +1,2 @@
-# C-
-It contain c++ codes
+# C++ and C
+It contain codes in C and C++
